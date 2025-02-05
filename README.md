@@ -24,9 +24,9 @@ To play SnowFlake, you will need to use DOSBox, an x86 PC emulator that allows y
     1. Open DOSBox.
     2. You'll need to "mount" the drive where you placed the game files.  For example, if you put the files in a folder called `C:\Games\SnowFlake`, you would use the following command in the DOSBox command prompt:
        ```
-       mount C: C:
+       mount C: C:\
        ```
-       (Replace `C:` with the actual driver the game is saved at.)
+       (Replace `C` with the actual driver the game is saved at.)
 
 5. **Navigate to the Game Directory:**
     1. In the DOSBox command prompt, switch to the mounted drive:
